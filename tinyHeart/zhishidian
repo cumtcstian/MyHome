@@ -1,0 +1,17 @@
+2 绘制果实
+beginPath();
+closePath();
+strokeStyle;
+stroke();
+lineWidth;
+lineCap;
+
+3 绘制果实
+drwaImage();
+
+长大=>成熟
+果实允许范围 = 15，每一帧判断果实状态，如果当前屏幕的果实少于15，则长出果实
+4 画大鱼
+translate();//canvas API 
+rotate();//canvas API 
+Math.atan2(y,x);//js API
