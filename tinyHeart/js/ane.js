@@ -1,4 +1,4 @@
-var aneObj = function()
+﻿var aneObj = function() 
 {
 	this.x = [];
 	this.len = [];
