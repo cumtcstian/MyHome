@@ -1,2 +1,2 @@
-what's the fuck!!!
-这个项目是一个小游戏
+this is a feature branch
+change this release branch and finish it
